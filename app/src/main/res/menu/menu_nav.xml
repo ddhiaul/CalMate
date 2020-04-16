@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+            android:id="@+id/nav_bangun_datar"
+            android:title="@string/bangun_datar"
+            android:icon="@drawable/square"
+            android:checked="true"
+            app:showAsAction="ifRoom"/>
+    <item
+            android:id="@+id/nav_bangun_ruang"
+            android:title="@string/bangun_datar"
+            android:icon="@drawable/cube"
+            android:checked="true"
+            app:showAsAction="ifRoom"/>
+    <item
+            android:id="@+id/nav_aritmatic"
+            android:title="@string/aritmatic"
+            android:icon="@drawable/aritmatic"
+            android:checked="true"
+            app:showAsAction="ifRoom"/>
+</menu>

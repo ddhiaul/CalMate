@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">CalMate</string>
+    <string name="bangun_datar">Bangun Datar</string>
+    <string name="bangun_ruang">Bangun Ruang</string>
+    <string name="aritmatic">Aritmatika</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bgn_datar">Bangun Datar</string>
+    <string name="persegi">Persegi</string>
+    <string name="sisi">sisi</string>
+    <string name="hitung">hitung</string>
+    <string name="sama_dgn">=</string>
+    <string name="hasil">Hasil</string>
+    <string name="luas">Luas</string>
+    <string name="keliling">keliling</string>
+    <string name="ppanjang">Persegi Panjang</string>
+    <string name="panjang">panjang</string>
+    <string name="lebar">lebar</string>
+    <string name="lingkaran">Lingkaran</string>
+    <string name="jari">r</string>
+    <string name="jajargenjang">Jajargenjang</string>
+    <string name="error_empty_field">Tidak Boleh Kosong</string>
+    <string name="a">a</string>
+    <string name="a_or_t">a(Keliling) / t(Luas)</string>
+    <string name="segitiga">Segitiga</string>
+    <string name="b">b</string>
+    <string name="c">c</string>
+    <string name="t">t</string>
+    <string name="a_or_AB">a / AB</string>
+    <string name="b_or_BC">b / BC</string>
+    <string name="CD">CD</string>
+    <string name="DA">DA</string>
+    <string name="trapesium">Trapesium</string>
+    <string name="error_field_empty">Tidak Boleh Terisi</string>
+    <string name="t_or_CD">t / CD</string>
+    <string name="rms_luas_p">s x s</string>
+    <string name="rms_keliling_p">s + s + s + s / 4 x s</string>
+    <string name="rms_luas_pp">p x l</string>
+    <string name="rms_keliling_pp">2 x ( p + l )</string>
+    <string name="rms_luas_l">phi ( 3.14 atau 22/7 ) x r x r</string>
+    <string name="rms_keliling_l">phi ( 3.14 atau 22/7 ) x d</string>
+    <string name="rms_luas_j">a x t</string>
+    <string name="rms_keliling_j">2 x ( a + b )</string>
+    <string name="rms_luas_s">1/2 x a x t</string>
+    <string name="rms_keliling_s">s x s x s / a x b x c</string>
+    <string name="rms_luas_t">(a + b) x t : 2 atau 1/2 (a + b) x t</string>
+    <string name="rms_keliling_t">AB + BC + CD + DA</string>
+    <string name="bgn_ruang">Bangun Ruang</string>
+    <string name="kubus">Kubus</string>
+    <string name="volume">Volume</string>
+    <string name="rumus">Rumus</string>
+    <string name="balok">Balok</string>
+    <string name="bola">Bulat</string>
+    <string name="kerucut">Kerucut</string>
+    <string name="prisma">Prisma</string>
+    <string name="tabung">Tabung</string>
+    <string name="satu_ang">1 Angka</string>
+    <string name="dua_ang">2 Angka</string>
+    <string name="tiga_ang">3 Angka</string>
+    <string name="empat_ang">4 Angka</string>
+    <string name="tambah">+</string>
+    <string name="min">-</string>
+    <string name="kali">x</string>
+    <string name="bagi">:</string>
+    <string name="tinggi">tinggi</string>
+    <string name="l_segitiga">luas segitiga</string>
+    <string name="tinggi_s3">t s3</string>
+    <string name="a_segitiga">alas segitiga</string>
+    <string name="t_segitiga">tinggi segitiga</string>
+    <string name="t_prisma">tinggi prisma</string>
+    <string name="welcome">Welcome To CalMate !</string>
+    <string name="text1">CalMate adalah aplikasi kalkulator untuk matematika sederhana yang menghitung bangun datar,
+        bagun ruang, dan aritmatika sederhana yang terdiri 2 - 4 angka.
+    </string>
+    <string name="text2">Dilengkapi dengan beberapa rumus matematika yang
+        akan membantu pengguna dalam menggunakan aplikasi CalMate.
+    </string>
+    <string name="text3">CalMate di desain berwarna agar pengguna dapat menikmati aplikasi tanpa rasa jenuh. Karena
+        CalMate mencoba agar pengguna lebih bersahabat dengan matematika.
+    </string>
+    <string name="thanks">Terima Kasih telah menggunakan CalMate !</string>
+    <string name="by">dhiyaul.aulia2003@gmail.com</string>
+    <string name="info">Info</string>
+</resources>
